@@ -22,5 +22,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mybffjustn&theme=shades-of-purple&langs_count=10)](https://github.com/mybffjustn/github-readme-stats)
-
+![dino](https://user-images.githubusercontent.com/105669193/170132808-d2360ee4-139e-4059-a47d-ebf932120ead.gif)
 [![mybffjustn's GitHub stats](https://github-readme-stats.vercel.app/api?username=mybffjustn&count_private=true&show_icons=true&theme=shades-of-purple)](https://github.com/mybffjustn/github-readme-stats)
