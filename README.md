@@ -21,6 +21,6 @@ mybffjustn/mybffjustn is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[![mybffjustn's GitHub stats](https://github-readme-stats.vercel.app/api?username=mybffjustn&count_private=true&show_icons=true&theme=shades-of-purple)](https://github.com/mybffjustn/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mybffjustn&theme=shades-of-purple&langs_count=10)](https://github.com/mybffjustn/github-readme-stats)
+
+[![mybffjustn's GitHub stats](https://github-readme-stats.vercel.app/api?username=mybffjustn&count_private=true&show_icons=true&theme=shades-of-purple)](https://github.com/mybffjustn/github-readme-stats)
