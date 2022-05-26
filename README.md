@@ -2,9 +2,9 @@
 <h3 align="center">I am a student software engineer👨‍🎓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mybffjustn&label=Profile%20views&color=A41034&style=for-the-badge" alt="mybffjustin" /> </p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mybffjustn&theme=shades-of-purple" width="48%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mybffjustin&theme=shades-of-purple" width="48%" >
 
-- 👋 Hi, I’m @mybffjustn
+- 👋 Hi, I’m @mybffjustin
 - 👀 I’m interested in software engineering, web software development, and computer science.
 - 🔭 I’m currently working on Java, C, PHP, MySQL, Python, and JavaScript.
 - 🌱 I’m currently learning computer science
@@ -16,10 +16,11 @@
 - ⚡ Fun fact: I enjoy technology, learning new subjects, mixed martial arts, powerlifting, cooking, and self-improvement.
 
 <!---
-mybffjustn/mybffjustn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mybffjustn/mybffjustin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ![dino](https://user-images.githubusercontent.com/105669193/170132808-d2360ee4-139e-4059-a47d-ebf932120ead.gif)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mybffjustn&theme=shades-of-purple&langs_count=10)](https://github.com/mybffjustn/github-readme-stats)
-[![mybffjustn's GitHub stats](https://github-readme-stats.vercel.app/api?username=mybffjustn&count_private=true&show_icons=true&theme=shades-of-purple)](https://github.com/mybffjustn/github-readme-stats)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mybffjustn&theme=dark_lover" alt="mybffjustn" /></a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mybffjustin&theme=shades-of-purple&langs_count=10)](https://github.com/mybffjustin/github-readme-stats)
+[![mybffjustn's GitHub stats](https://github-readme-stats.vercel.app/api?username=mybffjustin&count_private=true&show_icons=true&theme=shades-of-purple)](https://github.com/mybffjustin/github-readme-stats)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mybffjustin&theme=dark_lover" alt="mybffjustin" /></a> </p>
