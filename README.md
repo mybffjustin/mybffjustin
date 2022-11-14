@@ -18,6 +18,3 @@ You can click the Preview link to take a look at your changes.
 --->
 ![dino](https://user-images.githubusercontent.com/105669193/170132808-d2360ee4-139e-4059-a47d-ebf932120ead.gif)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mybffjustin&theme=shades-of-purple&langs_count=10)](https://github.com/mybffjustin/github-readme-stats)
-[![mybffjustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mybffjustin&count_private=true&show_icons=true&theme=shades-of-purple)](https://github.com/mybffjustin/github-readme-stats)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mybffjustin&theme=dark_lover" alt="mybffjustin" /></a> </p>
