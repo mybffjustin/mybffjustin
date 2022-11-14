@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, friend👋; my name is Justin👨‍💻</h1>
 <h3 align="center">I am a student software engineer👨‍🎓</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mybffjustn&label=Profile%20views&color=A41034&style=for-the-badge" alt="mybffjustin" /> </p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mybffjustin&theme=shades-of-purple" width="48%" >
-
 - 👋 Hi, I’m @mybffjustin
 - 👀 I’m interested in software engineering, web software development, and computer science.
 - 🔭 I’m currently working on Java, C, PHP, MySQL, Python, and JavaScript.
